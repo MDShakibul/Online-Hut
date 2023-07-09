@@ -55,8 +55,7 @@
 * (GET) [https://cow-hut-backend-auth.vercel.app/api/v1/orders](https://cow-hut-backend-auth.vercel.app/api/v1/orders)
 
 
-## Bonus Part
-***
+
 
 ### Admin
 
